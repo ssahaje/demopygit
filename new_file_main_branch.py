@@ -1,1 +1,2 @@
 print('new_file_main_branch')
+print('new_file_main_branch_Edited_via_pycharm_and_pushed_to_git_branch1')
